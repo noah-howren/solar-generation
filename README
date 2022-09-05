@@ -1,7 +1,7 @@
 Table Of Contents
 solar.csv -> Training / Testing dataset for 3 Power Plants.
-SPGReportpdf -> Paper I wrote for the class explaining why I chose the methods I did, how I went about everything, and analyzing the results.
-SPGProject.IPYNB -> Python Notebook containing code for the project.
+SPGReport.pdf -> Paper I wrote for the class explaining why I chose the methods I did, how I went about everything, and analyzing the results.
+SPGProject.ipynb -> Python Notebook containing code for the project.
 
 Context
 This was work done for my class CS458: Introduction To Data Mining (at the University of Nevada, Reno) the focus of which was using python to analyze large datasets in various contexts to get some result that could be applied to predicting future outcomes based on forecasted/existing data. We were specifically tasked with training a model to predict how much power 3 different solar-power plants would generate with an idea of the "forecasted" weather conditions. We then take the results of this and compare it to the actual solar-power generation in the same period under those weather conditions for all 3 plants.
